@@ -1,1 +1,5 @@
-Pufferfish	
+Pufferfish
+Lynx
+Dog
+Cat
+Zebra
